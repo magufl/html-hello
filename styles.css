@@ -1,0 +1,50 @@
+#complete {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+#title {
+    margin: auto;
+    width: 500px;
+    display: inlinr-block;
+    text-align: center;
+    padding: 3px;
+}
+h1 {
+    background-color: rgb(252, 252, 252);
+    width: 500px;
+    font-size: 20pt;
+}
+#feed {
+    background-color: #d8d8d8;
+    padding: 20px;
+}
+#pic-1 {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    display: inlinr-block;
+    text-align: center;
+}
+#pic-1-header {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#pic-1-title {
+    align: left;
+    width: 450px;
+    float:left;
+}
+#pic-1-date {
+    width: 50px;
+    color: #b1b1b1;
+}
+img {
+    height: 500px;
+    width: 500px;
+    object-fit: contain;
+}
+#pic-1-footer {
+    padding-left: 10px;
+    padding-bottom: 2px;
+}
